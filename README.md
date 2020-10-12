@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+A Flutter that calculates the "Body Mass Index" with a beautiful user interface. Design inspired by dribble.com
 
 ## Getting Started
 
